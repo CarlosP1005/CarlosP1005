@@ -66,28 +66,8 @@ Este perfil es donde voy dejando registro de lo que voy construyendo y aprendien
 
 ---
 
-## 🔀 Git y GitHub
-
-Estoy aprendiendo control de versiones desde cero. Estos son los comandos que
-uso a diario y lo que hace cada uno:
-
-| Comando | Para qué sirve |
-|---|---|
-| `git clone <url>` | Traer un repositorio remoto a mi equipo |
-| `git status` | Ver qué archivos cambiaron |
-| `git add <archivo>` | Marcar los cambios que quiero guardar |
-| `git commit -m "mensaje"` | Guardar los cambios en el historial local |
-| `git push` | Subir los commits a GitHub |
-| `git pull` | Traer los cambios que hay en GitHub |
-| `git log --oneline` | Ver el historial de commits de forma compacta |
-
-Mi objetivo con esto es que cada proyecto tenga un historial claro, con commits
-que expliquen **por qué** cambió algo, no solo qué cambió.
-
----
-
 <p align="center">
   <i>Gracias por pasar por aquí ⭐</i>
 </p>
-=======
+
 
