@@ -1,4 +1,4 @@
-### Hola, soy Carlos Palacios 👋
+## Hola, soy Carlos Palacios 👋
 ## Profesional en Finanzas y Negocios Internacionales
 ## Estudiante de Maestría en Ciencia de Datos en la UPB
 ## Me gusta lanzar modelos predictivos y descriptivos
