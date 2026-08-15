@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">👋 Hola, soy Carlos Palacios</h1>
 
 <p align="center">
@@ -90,3 +91,10 @@ que expliquen **por qué** cambió algo, no solo qué cambió.
 <p align="center">
   <i>Gracias por pasar por aquí ⭐</i>
 </p>
+=======
+## Hola, soy Carlos Palacios 👋
+## Profesional en Finanzas y Negocios Internacionales
+## Estudiante de Maestría en Ciencia de Datos en la UPB
+## Me gusta lanzar modelos predictivos y descriptivos
+## Estoy en la búsqueda de poner en práctica todos los conocimientos adquiridos
+>>>>>>> a367e6b3a27a56f220287614ecb884e021182eec
