@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">👋 Hola, soy Carlos Palacios</h1>
 
 <p align="center">
